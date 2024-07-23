@@ -1,4 +1,5 @@
-﻿#noEnv
+﻿# TO DO: convert to AHK v2
+#noEnv
 #singleInstance, Force
 #keyHistory 0
 #maxHotkeysPerInterval 500
